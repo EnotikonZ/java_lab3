@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"ru.semeshko.annotations"},{"l":"ru.semeshko.examples"},{"l":"ru.semeshko.handlers"},{"l":"ru.semeshko.main"}];updateSearchResults();
